@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This was my very first project here in FEM but, some how, forget to post my solution...
+This was my very first project here in FEM but, some how, forgot to post my solution...
 
 ### Continued development
 
